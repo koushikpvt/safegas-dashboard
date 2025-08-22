@@ -15,7 +15,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Prerequisites
 
 - Node.js ≥ 18
+<<<<<<< HEAD
 - Supabase project with `gas_logs` and `servo_events` tables
+=======
+- Supabase project with `sensors` and `rotation_events` tables
+>>>>>>> 75a0a1db8f50c1a4ae7cd6bded157624130979a1
 - Telegram bot token (optional for alerts)
 
 ### Installation
@@ -29,4 +33,8 @@ cd safegas-dashboard
 npm install
 
 # Start the dashboard
+<<<<<<< HEAD
 npm start
+=======
+npm start
+>>>>>>> 75a0a1db8f50c1a4ae7cd6bded157624130979a1
